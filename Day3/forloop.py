@@ -3,7 +3,7 @@
 #1) While Loop
 #2) For Loop
 
-# 2) For loop--------------
+    # 2) For loop--------------
 #---------------------
 #A) Print 1 to 10 Numbers using For loop
 #1)

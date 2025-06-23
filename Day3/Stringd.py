@@ -66,7 +66,7 @@ print(min("agverh"))    #-->a
 print(len("vfbvzgvgrbfz")) #-->12
 #
 # #-----------------------------------------------------------------------------------------
-# #6)in ,notin operstores  and returns boolean values
+# #6)in ,not-in operstores  and returns boolean values
 #
 s="Welcome"
 #in-->Operatore

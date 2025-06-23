@@ -84,7 +84,7 @@ print(mySet)          #-.Error Expected because set is deleted before print stat
 
 # #Example-7->Joining of 2 set --Union()
 # -------------------------------------------
-# A)Update
+# A)Union
 set1={"a","b","c"}
 set2={1,2,3}
 set3=set1.union(set2)

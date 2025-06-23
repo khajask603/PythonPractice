@@ -2,7 +2,7 @@
 #-->Set ->{} = Curly Braces
 #-->list  ->[] = Square Brackets
 #--> tupple -> ()= Open Brackets
-#-> its Unordered & Changeble(Mutable) and UNIndexed and represented using curly braces {}
+#-> Dictionary is ordered(Since 3.7 Python) & Changeble(Mutable) and UNIndexed and represented using curly braces {}
 #These has Curly braces
 #Key are Unique but Values can be duplicated
 #  KEY          Value
@@ -110,6 +110,9 @@ Dict={
 }
 Dict["Colour"]="Red"
 print(Dict)         #{'Brand': 'Huwaie', 'Model': 'i10', 'Year': 2021, 'Colour': 'Red'}
+
+# We cant add multiple need to add one after the another
+
 
 #Example:9--Remove and clearing only data items from Dictionary using and deleting whole dictionary
 # A)Using POP()
